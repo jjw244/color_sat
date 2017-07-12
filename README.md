@@ -1,4 +1,4 @@
 # Image color manipulation
 
-Language: Python, with package Numpy
+Language: Python, with packages Numpy and argparse
 
